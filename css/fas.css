@@ -14,4 +14,9 @@
 .front #content-column #block-boxes-1372792795 a {font-weight:bold; font-size:12px; padding-right:11px; background:url(/profiles/openscholar/themes/hwpi_basetheme/images/readmore_arrow.gif) no-repeat right center;}
 
 /* Dean Smith Page */
-.page-node-49886 #columns {padding-top:250px; background:url(../images/dean-michael-smith.jpg) no-repeat;}
+.page-node-49886,
+.page-node-48381,
+.page-node-49891 {padding-top:270px; margin-top:20px; background-repeat:none}
+.page-node-49886 #columns {background-image:url(../images/dean-michael-smith.jpg)}
+.page-node-48381 #columns {background-image:url(../images/john-harvard-statue.jpg)}
+.page-node-49891 #columns {background-image:url(../images/support-fas.jpg)}
