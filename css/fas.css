@@ -1,0 +1,14 @@
+/* News Teaser Image */
+.node-teaser img {width:100px; height:100px;}
+
+/* Homepage Content Blocks */
+.front #content-panels .region-content-first .block,
+.front #content-panels .region-content-second .block {height:346px; overflow:hidden;}
+.front #content-panels .region-content-first article nav,
+.front #content-panels .region-content-second article nav {margin-top:-3px;}
+
+/* Homepage View All Events Link */
+.front #content-column #block-boxes-1372792795 {margin-bottom:0; border-top:none;}
+.front #content-column #block-boxes-1372792795 .block-inner {margin-top:0;}
+.front #content-column #block-boxes-1372792795 p {margin:-15px 0 15px 0; text-align: right}
+.front #content-column #block-boxes-1372792795 a {font-weight:bold; font-size:12px; padding-right:11px; background:url(/profiles/openscholar/themes/hwpi_basetheme/images/readmore_arrow.gif) no-repeat right center;}
