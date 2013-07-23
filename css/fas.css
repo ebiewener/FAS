@@ -2,6 +2,7 @@
 .node-teaser img {width:100px; height:100px;}
 
 /* Homepage Content Blocks */
+#content-column .block,
 .front #content-panels .region-content-first .block,
 .front #content-panels .region-content-second .block {height:346px; overflow:hidden;}
 .front #content-panels .region-content-first article nav,
@@ -21,3 +22,5 @@
 .page-node-48381 #columns {background-image:url(../images/john-harvard-statue.jpg)}
 .page-node-49891 #columns {background-image:url(../images/support-fas.jpg)}
 */
+
+#content-column .block {border-top:6px;}
