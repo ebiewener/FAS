@@ -2,11 +2,10 @@
 .node-teaser img {width:100px; height:100px;}
 
 /* Homepage Content Blocks */
-#content-column .block,
-.front #content-panels .region-content-first .block,
-.front #content-panels .region-content-second .block {height:346px; overflow:hidden;}
-.front #content-panels .region-content-first article nav,
-.front #content-panels .region-content-second article nav {margin-top:-3px;}
+#content-panels .region-content-first .block,
+#content-panels .region-content-second .block {height:346px; overflow:hidden; border-top:6px solid #e1e1e1}
+#content-panels .region-content-first article nav,
+#content-panels .region-content-second article nav {margin-top:-3px;}
 
 /* Homepage View All Events Link */
 .front #content-column #block-boxes-1372792795 {margin-bottom:0; border-top:none;}
@@ -23,4 +22,3 @@
 .page-node-49891 #columns {background-image:url(../images/support-fas.jpg)}
 */
 
-#content-column .block {border-top:6px;}
